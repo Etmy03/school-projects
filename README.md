@@ -35,6 +35,17 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 - https://github.com/Etmy03/CMSC204_GradeBook_Lab/settings
 - https://github.com/Etmy03/CMSC204_Generic_Lab/settings
 - https://github.com/Etmy03/CMSC204_Recursion_Lab/settings
+
+### 🖥 INTRO TO COMPUTER SYSTEM (216)
+
+### 🖥️ ORGNZTN PROGM LANG(330)
+
+### 🖥️ ALGORITHMS(351)
+
+### 🖥️ DSGN & ANLYS CMPTR ALGOR(451)
+
+### 🖥️ CRYPTOGRAPHY(456)
+
 <!--
 ### 🔢 DATA STRUCTURES
 - [Project 1: Binary Search Tree Implementation](https://github.com/username/school-bst)  
