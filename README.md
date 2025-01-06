@@ -7,7 +7,8 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 ### 🖥️ COMPUTER SCIENCE I
 
 Assignments:
-- [Assignment2: Data Structures Exploration](https://github.com/username/kbdsbkfdcb)
+- https://github.com/Etmy03/Assignment1
+- 
 
 Labs:
 - (https://github.com/username/bfdkibfd)  
