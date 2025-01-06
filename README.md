@@ -4,6 +4,8 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 
 ## Courses and Projects
 
+### 🖥️ INTRO TO PROGRAMMING(140)
+
 ### 🖥️ COMPUTER SCIENCE I
 
 #### Assignments:
