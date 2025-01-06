@@ -6,13 +6,35 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 
 ### 🖥️ COMPUTER SCIENCE I
 
-Assignments:
-- https://github.com/Etmy03/Assignment1
-- 
+#### Assignments:
+- https://github.com/Etmy03/CMSC203_Assignment1
+- https://github.com/Etmy03/CMSC203_Assignment2
+- https://github.com/Etmy03/CMSC203_Assignment3
+- https://github.com/Etmy03/CMSC203_Assignment4
+- https://github.com/Etmy03/CMSC203_Assignment5
+- https://github.com/Etmy03/CMSC203_Assignment6
 
-Labs:
-- (https://github.com/username/bfdkibfd)  
+#### Labs:
+- https://github.com/Etmy03/CMSC203_Lab1
+- https://github.com/Etmy03/CMSC203_Lab2
+- https://github.com/Etmy03/CMSC203_Lab3
+- https://github.com/Etmy03/CMSC203_Lab4
+- https://github.com/Etmy03/CMSC203_Lab6
 
+### 🖥️ COMPUTER SCIENCE II
+
+#### Assignments:
+- https://github.com/Etmy03/CMSC204_Assignment1
+- https://github.com/Etmy03/CMSC204_Assignment2
+- https://github.com/Etmy03/CMSC204_Assignment3
+- https://github.com/Etmy03/CMSC204_Assignment4
+- https://github.com/Etmy03/CMSC204_Assignment5
+- https://github.com/Etmy03/CMSC204_Assignment6
+
+#### Labs:
+- https://github.com/Etmy03/CMSC204_GradeBook_Lab/settings
+- https://github.com/Etmy03/CMSC204_Generic_Lab/settings
+- https://github.com/Etmy03/CMSC204_Recursion_Lab/settings
 <!--
 ### 🔢 DATA STRUCTURES
 - [Project 1: Binary Search Tree Implementation](https://github.com/username/school-bst)  
