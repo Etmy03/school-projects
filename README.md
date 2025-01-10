@@ -4,7 +4,7 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 
 ## Courses and Projects
 
-### 🖥️ INTRO TO PROGRAMMING(140)
+### 🖥️ INTRO TO PROGRAMMING
 - https://github.com/Etmy03/Intro-to-Programming-code
 
 ### 🖥️ COMPUTER SCIENCE I
@@ -39,15 +39,16 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 - https://github.com/Etmy03/CMSC204_Generic_Lab/settings
 - https://github.com/Etmy03/CMSC204_Recursion_Lab/settings
 
-### 🖥 INTRO TO COMPUTER SYSTEM (216)
+### 🖥 INTRO TO COMPUTER SYSTEM 
+- https://github.com/Etmy03/cmsc216Project1
+- https://github.com/Etmy03/cmsc216Project2
+- https://github.com/Etmy03/cmsc216Project3
 
 ### 🖥️ ORGNZTN PROGM LANG(330)
-
-### 🖥️ ALGORITHMS(351)
+-
 
 ### 🖥️ DSGN & ANLYS CMPTR ALGOR(451)
-
-### 🖥️ CRYPTOGRAPHY(456)
+- 
 
 <!--
 ### 🔢 DATA STRUCTURES
