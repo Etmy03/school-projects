@@ -5,6 +5,7 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 ## Courses and Projects
 
 ### 🖥️ INTRO TO PROGRAMMING(140)
+- https://github.com/Etmy03/Intro-to-Programming-code
 
 ### 🖥️ COMPUTER SCIENCE I
 
