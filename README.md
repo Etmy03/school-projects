@@ -26,7 +26,7 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 
 ### 🖥️ COMPUTER SCIENCE II
 
-#### Assignments:
+##### Assignments:
 - https://github.com/Etmy03/CMSC204_Assignment1
 - https://github.com/Etmy03/CMSC204_Assignment2
 - https://github.com/Etmy03/CMSC204_Assignment3
@@ -45,7 +45,14 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 - https://github.com/Etmy03/cmsc216Project3
 
 ### 🖥️ ORGNZTN PROGM LANG(330)
--
+- https://github.com/Etmy03/cmsc330Project1
+- https://github.com/Etmy03/cmsc330Project2
+- https://github.com/Etmy03/cmsc330Project3
+- https://github.com/Etmy03/cmsc330Project4
+- https://github.com/Etmy03/cmsc330Project5
+- https://github.com/Etmy03/cmsc330Project6
+- https://github.com/Etmy03/cmsc330Project7
+- https://github.com/Etmy03/cmsc330Project8
 
 ### 🖥️ DSGN & ANLYS CMPTR ALGOR(451)
 - 
