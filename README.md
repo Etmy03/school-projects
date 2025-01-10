@@ -1,4 +1,4 @@
-# 🎓 School Projects
+ #🎓 School Projects
 
 Welcome to my collection of school projects! Here, you'll find some of the work I've done as part of my coursework at the **Montgomery College** and **University of Maryland**.
 
@@ -26,7 +26,7 @@ Welcome to my collection of school projects! Here, you'll find some of the work 
 
 ### 🖥️ COMPUTER SCIENCE II
 
-##### Assignments:
+#### Assignments:
 - https://github.com/Etmy03/CMSC204_Assignment1
 - https://github.com/Etmy03/CMSC204_Assignment2
 - https://github.com/Etmy03/CMSC204_Assignment3
